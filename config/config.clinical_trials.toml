@@ -1,0 +1,16 @@
+[file]
+description = "contient des publications scientifiques avec un titre (scientific_title), un id (id), un journal (journal) et une date (date)."
+path = "datasets/clinical_trials.csv"
+
+[fields]
+  [fields.id]
+  type = "object"
+
+  [fields.title]
+  type = "object"
+
+  [fields.journal]
+  type = "object"
+
+  [fields.date]
+  type = "date"

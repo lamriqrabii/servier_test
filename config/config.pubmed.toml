@@ -1,0 +1,16 @@
+[file]
+description = "contient des titres d’articles PubMed (title) associés à un journal (journal) à une date donnée (date) ainsi qu’un id (id)"
+path = "datasets/pubmed.csv"
+
+[fields]
+  [fields.id]
+  type = "int64"
+
+  [fields.title]
+  type = "object"
+
+  [fields.journal]
+  type = "object"
+
+  [fields.date]
+  type = "date"

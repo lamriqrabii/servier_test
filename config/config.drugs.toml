@@ -1,0 +1,10 @@
+[file]
+description = "contient les noms de drugs (des médicaments) avec un id (atccode) et un nom (drug)"
+path = "datasets/drugs.csv"
+
+[fields]
+  [fields.atccode]
+  type = "object"
+
+  [fields.drug]
+  type = "object"

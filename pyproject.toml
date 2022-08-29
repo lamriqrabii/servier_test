@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "servier test"
+version = "0.1.0"
+description = "créer un graph de laison entre drug et pubmed, journal et clinical_trials."
+authors = ["Rabii LAMRIQ <lamriq.rabii@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.4.3"
+tomli = "^2.0.1"
+networkx = "^2.8.6"
+jsonschema = "^4.14.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+
+[build-system]
+requires = ["poetry>=1.1.15"]
+build-backend = "poetry.core.masonry.api"
