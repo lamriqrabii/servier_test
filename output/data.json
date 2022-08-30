@@ -1,0 +1,337 @@
+{
+    "graph": {
+        "name": "drug relation"
+    },
+    "nodes": [
+        {
+            "id": "diphenhydramine",
+            "label": "drug"
+        },
+        {
+            "id": "Journal of emergency nursing",
+            "label": "journal"
+        },
+        {
+            "id": "a 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+            "label": "pubmed"
+        },
+        {
+            "id": "an evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+            "label": "pubmed"
+        },
+        {
+            "id": "The Journal of pediatrics",
+            "label": "journal"
+        },
+        {
+            "id": "diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+            "label": "pubmed"
+        },
+        {
+            "id": "tetracycline",
+            "label": "drug"
+        },
+        {
+            "id": "Journal of food protection",
+            "label": "journal"
+        },
+        {
+            "id": "tetracycline resistance patterns of lactobacillus buchneri group strains.",
+            "label": "pubmed"
+        },
+        {
+            "id": "American journal of veterinary research",
+            "label": "journal"
+        },
+        {
+            "id": "appositional tetracycline bone formation rates in the beagle.",
+            "label": "pubmed"
+        },
+        {
+            "id": "Psychopharmacology",
+            "label": "journal"
+        },
+        {
+            "id": "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+            "label": "pubmed"
+        },
+        {
+            "id": "ethanol",
+            "label": "drug"
+        },
+        {
+            "id": "epinephrine",
+            "label": "drug"
+        },
+        {
+            "id": "The journal of allergy and clinical immunology. In practice",
+            "label": "journal"
+        },
+        {
+            "id": "the high cost of epinephrine autoinjectors and possible alternatives.",
+            "label": "pubmed"
+        },
+        {
+            "id": "time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained rosc after traumatic out-of-hospital cardiac arrest.",
+            "label": "pubmed"
+        },
+        {
+            "id": "use of diphenhydramine as an adjunctive sedative for colonoscopy in patients chronically on opioids",
+            "label": "clinical_trials"
+        },
+        {
+            "id": "phase 2 study iv quzyttir\u2122 (cetirizine hydrochloride injection) vs v diphenhydramine",
+            "label": "clinical_trials"
+        },
+        {
+            "id": "feasibility of a randomized controlled clinical trial comparing the use of cetirizine to replace diphenhydramine in the prevention of reactions related to paclitaxel",
+            "label": "clinical_trials"
+        },
+        {
+            "id": "Journal of emergency nursing\\xc3\\x28",
+            "label": "journal"
+        },
+        {
+            "id": "tranexamic acid versus epinephrine during exploratory tympanotomy",
+            "label": "clinical_trials"
+        },
+        {
+            "id": "betamethasone",
+            "label": "drug"
+        },
+        {
+            "id": "H\u00f4pitaux Universitaires de Gen\u00e8ve",
+            "label": "journal"
+        },
+        {
+            "id": "preemptive infiltration with betamethasone and ropivacaine for postoperative pain in laminoplasty or \\xc3\\xb1 laminectomy",
+            "label": "clinical_trials"
+        }
+    ],
+    "edges": [
+        {
+            "source": "diphenhydramine",
+            "target": "Journal of emergency nursing",
+            "metadata": {
+                "date": "2019-04-05",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "a 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+            "metadata": {
+                "date": "2019-04-05",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "Journal of emergency nursing",
+            "metadata": {
+                "date": "2019-01-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "an evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+            "metadata": {
+                "date": "2019-01-01",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "The Journal of pediatrics",
+            "metadata": {
+                "date": "2019-02-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+            "metadata": {
+                "date": "2019-02-01",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "tetracycline",
+            "target": "Journal of food protection",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "tetracycline",
+            "target": "tetracycline resistance patterns of lactobacillus buchneri group strains.",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "tetracycline",
+            "target": "American journal of veterinary research",
+            "metadata": {
+                "date": "2020-02-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "tetracycline",
+            "target": "appositional tetracycline bone formation rates in the beagle.",
+            "metadata": {
+                "date": "2020-02-01",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "tetracycline",
+            "target": "Psychopharmacology",
+            "metadata": {
+                "date": "2020-05-03",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "tetracycline",
+            "target": "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+            "metadata": {
+                "date": "2020-05-03",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "ethanol",
+            "target": "Psychopharmacology",
+            "metadata": {
+                "date": "2020-05-03",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "ethanol",
+            "target": "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+            "metadata": {
+                "date": "2020-05-03",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "epinephrine",
+            "target": "The journal of allergy and clinical immunology. In practice",
+            "metadata": {
+                "date": "2020-01-02",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "epinephrine",
+            "target": "the high cost of epinephrine autoinjectors and possible alternatives.",
+            "metadata": {
+                "date": "2020-01-02",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "epinephrine",
+            "target": "The journal of allergy and clinical immunology. In practice",
+            "metadata": {
+                "date": "2020-01-03",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "epinephrine",
+            "target": "time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained rosc after traumatic out-of-hospital cardiac arrest.",
+            "metadata": {
+                "date": "2020-01-03",
+                "label": "referenced in pubmed"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "Journal of emergency nursing",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "use of diphenhydramine as an adjunctive sedative for colonoscopy in patients chronically on opioids",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in clinical_trials"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "Journal of emergency nursing",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "phase 2 study iv quzyttir\u2122 (cetirizine hydrochloride injection) vs v diphenhydramine",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in clinical_trials"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "Journal of emergency nursing",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "diphenhydramine",
+            "target": "feasibility of a randomized controlled clinical trial comparing the use of cetirizine to replace diphenhydramine in the prevention of reactions related to paclitaxel",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in clinical_trials"
+            }
+        },
+        {
+            "source": "epinephrine",
+            "target": "Journal of emergency nursing\\xc3\\x28",
+            "metadata": {
+                "date": "2020-04-27",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "epinephrine",
+            "target": "tranexamic acid versus epinephrine during exploratory tympanotomy",
+            "metadata": {
+                "date": "2020-04-27",
+                "label": "referenced in clinical_trials"
+            }
+        },
+        {
+            "source": "betamethasone",
+            "target": "H\u00f4pitaux Universitaires de Gen\u00e8ve",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in journal"
+            }
+        },
+        {
+            "source": "betamethasone",
+            "target": "preemptive infiltration with betamethasone and ropivacaine for postoperative pain in laminoplasty or \\xc3\\xb1 laminectomy",
+            "metadata": {
+                "date": "2020-01-01",
+                "label": "referenced in clinical_trials"
+            }
+        }
+    ]
+}
